@@ -22,6 +22,7 @@ public class AddingMachine {
 	 * method that returns an integer does not take input
 	 */
 	public int getTotal () {
+
 		return this.total;
 	}
 
